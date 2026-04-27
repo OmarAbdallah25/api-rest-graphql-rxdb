@@ -1,0 +1,10 @@
+[
+  {
+    "id": "e551bc3f-f264-4ab2-b8c4-e18c0cc1f530",
+    "userId": "ebce0233-cbcb-4411-a34f-d3cce2e3308e",
+    "name": "MacBook Pro",
+    "type": "laptop",
+    "serialNumber": "SN-001",
+    "status": "active"
+  }
+]
